@@ -3,7 +3,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epilexsy&show_icons=true&theme=dark&locale=en&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=epilexsy&show_icons=true&hide=rank&theme=dark&locale=en&layout=compact" >
+  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=epilexsy&rank_icon=github&show_icons=true&hide=rank&theme=dark&locale=en&layout=compact" >
 </a>
 </p>
 
@@ -11,5 +11,3 @@
 
 <!--
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=epilexsy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
-
-
